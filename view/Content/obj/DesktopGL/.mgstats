@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/contents.png","/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/bin/DesktopGL/contents.xnb","TextureProcessor","Texture2DContent",1105673,8294485,0.423349
+"/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/mission.gif","/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/bin/DesktopGL/mission.xnb","TextureProcessor","Texture2DContent",546457,90085,0.0082117
+"/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/tile015.png","/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/bin/DesktopGL/tile.xnb","TextureProcessor","Texture2DContent",409,1109,0.177297
+"/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/Vector (3).png","/home/gfried-code/RiderProjects/project_systeme_mvc/view/Content/bin/DesktopGL/Vector (3).xnb","TextureProcessor","Texture2DContent",395,1833,0.1760774

@@ -1,0 +1,24 @@
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/view.deps.json
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/view.runtimeconfig.json
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Content/contents.xnb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Content/mission.xnb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Content/tile.xnb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Content/Vector (3).xnb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/view
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Controller.deps.json
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Controller.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/Controller.pdb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/mvc.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/view.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/mvc.pdb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/bin/Debug/net6.0/view.pdb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.csproj.AssemblyReference.cache
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.GeneratedMSBuildEditorConfig.editorconfig
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.AssemblyInfoInputs.cache
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.AssemblyInfo.cs
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.csproj.CoreCompileInputs.cache
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.csproj.CopyComplete
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/refint/Controller.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/Controller.pdb
+/home/gfried-code/RiderProjects/project_systeme_mvc/Controller/obj/Debug/net6.0/ref/Controller.dll

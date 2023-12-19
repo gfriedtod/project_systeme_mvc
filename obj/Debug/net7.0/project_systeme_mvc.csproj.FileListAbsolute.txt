@@ -1,0 +1,12 @@
+/home/gfried-code/RiderProjects/project_systeme_mvc/bin/Debug/net7.0/project_systeme_mvc.deps.json
+/home/gfried-code/RiderProjects/project_systeme_mvc/bin/Debug/net7.0/project_systeme_mvc.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/bin/Debug/net7.0/project_systeme_mvc.pdb
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.csproj.AssemblyReference.cache
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.AssemblyInfoInputs.cache
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.AssemblyInfo.cs
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.csproj.CoreCompileInputs.cache
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/refint/project_systeme_mvc.dll
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/project_systeme_mvc.pdb
+/home/gfried-code/RiderProjects/project_systeme_mvc/obj/Debug/net7.0/ref/project_systeme_mvc.dll

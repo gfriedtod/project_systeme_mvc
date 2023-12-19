@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpRidKVmjoZ9C7U0M7aNAbcAhTaqCyIfXMbjbn/j4ET+agpJJ644n2lD7aBnWKqekhXNlYvUg8FKDrAddDcmLA==",
+  "success": true,
+  "projectFilePath": "/home/gfried-code/RiderProjects/project_systeme_mvc/project_systeme_mvc.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/root/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

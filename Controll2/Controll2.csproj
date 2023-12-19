@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <RollForward>Major</RollForward>
+        <PublishReadyToRun>false</PublishReadyToRun>
+        <TieredCompilation>false</TieredCompilation>
+    </PropertyGroup>
+    <PropertyGroup>
+        <ApplicationManifest>app.manifest</ApplicationManifest>
+        <ApplicationIcon>Icon.ico</ApplicationIcon>
+    </PropertyGroup>
+    <ItemGroup>
+        <None Remove="Icon.ico"/>
+        <None Remove="Icon.bmp"/>
+    </ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="Icon.ico"/>
+        <EmbeddedResource Include="Icon.bmp"/>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303"/>
+        <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303"/>
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\mvc\mvc.csproj" />
+      <ProjectReference Include="..\view\view.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="bin\Debug\net6.0\assets\map.txt" />
+      <Content Include="bin\Debug\net6.0\Content\contents.xnb" />
+      <Content Include="bin\Debug\net6.0\Content\mission.xnb" />
+      <Content Include="bin\Debug\net6.0\Content\tile.xnb" />
+      <Content Include="bin\Debug\net6.0\Content\Vector (3).xnb" />
+      <Content Include="bin\Debug\net6.0\Controll2" />
+      <Content Include="bin\Debug\net6.0\Controll2.deps.json" />
+      <Content Include="bin\Debug\net6.0\Controll2.dll" />
+      <Content Include="bin\Debug\net6.0\Controll2.pdb" />
+      <Content Include="bin\Debug\net6.0\Controll2.runtimeconfig.json" />
+      <Content Include="bin\Debug\net6.0\MonoGame.Framework.dll" />
+      <Content Include="bin\Debug\net6.0\mvc.dll" />
+      <Content Include="bin\Debug\net6.0\mvc.pdb" />
+      <Content Include="bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1" />
+      <Content Include="bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0" />
+      <Content Include="bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib" />
+      <Content Include="bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib" />
+      <Content Include="bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll" />
+      <Content Include="bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll" />
+      <Content Include="bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll" />
+      <Content Include="bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll" />
+      <Content Include="bin\Debug\net6.0\view" />
+      <Content Include="bin\Debug\net6.0\view.deps.json" />
+      <Content Include="bin\Debug\net6.0\view.dll" />
+      <Content Include="bin\Debug\net6.0\view.pdb" />
+      <Content Include="bin\Debug\net6.0\view.runtimeconfig.json" />
+    </ItemGroup>
+    <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
+        <Message Text="Restoring dotnet tools" Importance="High"/>
+        <Exec Command="dotnet tool restore"/>
+    </Target>
+</Project>

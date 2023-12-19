@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="view\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="view\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="view\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="bin\Debug\net7.0\assets\map.txt" />
+      <Content Include="bin\Debug\net7.0\project_systeme_mvc.deps.json" />
+      <Content Include="bin\Debug\net7.0\project_systeme_mvc.dll" />
+      <Content Include="bin\Debug\net7.0\project_systeme_mvc.pdb" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="view\view.csproj" />
+    </ItemGroup>
+
+</Project>

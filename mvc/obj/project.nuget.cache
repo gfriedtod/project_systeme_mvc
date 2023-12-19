@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgs2QCLJDgr1Sxq//wTWR+or/ilLCRJ49uiE6WKDpH497QiUa6Sf+4V+fz8KkFLr6WjZIeLNDQ5J6Lo6z9kCDA==",
+  "success": true,
+  "projectFilePath": "/home/gfried-code/RiderProjects/project_systeme_mvc/mvc/mvc.csproj",
+  "expectedPackageFiles": [
+    "/home/gfried-code/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/gfried-code/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
